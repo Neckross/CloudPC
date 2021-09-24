@@ -1,4 +1,4 @@
-function Get-CloudPC {
+﻿function Get-CloudPC {
   <#
 .SYNOPSIS
 Short description
@@ -19,7 +19,8 @@ Parameter description
 Parameter description
 
 .EXAMPLE
-An example
+Get-CloudPC
+Retrieve all Cloud PCs from the tenant
 
 .NOTES
 General notes

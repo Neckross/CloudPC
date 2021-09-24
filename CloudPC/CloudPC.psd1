@@ -39,7 +39,9 @@
 	# FormatsToProcess = @('xml\CloudPC.Format.ps1xml')
 
 	# Functions to export from this module
-	FunctionsToExport = ''
+	FunctionsToExport = @(
+		'Get-CloudPC'
+	)
 
 	# Cmdlets to export from this module
 	CmdletsToExport   = ''
