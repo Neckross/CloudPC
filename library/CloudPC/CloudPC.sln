@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{47386FB8-F85F-4CF6-A9A7-E4EEC6BEF178}") = "CloudPC", "CloudPC\CloudPC.csproj", "{6727B26A-2567-4177-A716-25E250C9D4C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6727B26A-2567-4177-A716-25E250C9D4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6727B26A-2567-4177-A716-25E250C9D4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6727B26A-2567-4177-A716-25E250C9D4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6727B26A-2567-4177-A716-25E250C9D4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D870A9A6-FD0C-4AAB-81AB-7A9D9F6C363A}
+	EndGlobalSection
+EndGlobal
